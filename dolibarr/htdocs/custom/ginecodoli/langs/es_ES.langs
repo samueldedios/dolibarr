@@ -1,0 +1,109 @@
+# Traducciones al español para módulo GinecoDoli
+# Copyright (C) 2024 GinecoDoli Team
+
+# General
+GinecoDoli=GinecoDoli
+GinecoDoliDashboard=Panel de Control GinecoDoli
+ModuleSetup=Configuración del Módulo
+WelcomeDoctor=Bienvenida, Dra.
+Today=Hoy
+
+# Configuración
+GinecoDoliSetup=Configuración de GinecoDoli
+GinecoDoliWelcome=Módulo GinecoDoli instalado correctamente
+GeneralSetup=Configuración General
+Parameters=Parámetros
+Dictionaries=Diccionarios
+ExtraFields=Campos Extra
+DefaultPatientCategory=Categoría por defecto para pacientes
+CategoryNotFound=Categoría no encontrada. Haga clic en "Crear categoría" para generarla.
+CategoryForPatientsDesc=Categoría utilizada para identificar pacientes ginecológicos
+SocieteExtraFields=Extrafields de Terceros
+NoGynExtraFields=No hay extrafields ginecológicos configurados
+NoExtraFields=No hay extrafields configurados
+ExtraFieldsForGynecology=Campos adicionales para datos ginecológicos en pacientes
+AvailableDictionaries=Diccionarios Disponibles
+TiposConsulta=Tipos de Consulta
+MetodosAnticonceptivos=Métodos Anticonceptivos
+TiposExamenes=Tipos de Exámenes
+ProcedimientosQuirurgicos=Procedimientos Quirúrgicos
+QuickActions=Acciones Rápidas
+CreatePatientCategory=Crear Categoría Pacientes
+AddGynExtraFields=Añadir Campos Ginecológicos
+ViewPatients=Ver Pacientes
+NewConsultation=Nueva Consulta
+
+# Dashboard widgets
+TotalPatients=Total Pacientes
+ActivePatients=Pacientes Activos
+ConsultationsThisMonth=Consultas este Mes
+PregnanciesInProgress=Embarazos en Curso
+ActivePregnancies=Embarazos Activos
+UpcomingAppointments=Citas Próximas
+Next7Days=Próximos 7 días
+ViewAll=Ver todos
+ViewAgenda=Ver Agenda
+
+# Acciones rápidas
+Action=Acción
+Description=Descripción
+NewConsultationDesc=Registrar una nueva consulta ginecológica
+NewPatient=Nuevo Paciente
+NewPatientDesc=Crear ficha de nueva paciente
+NewAppointment=Nueva Cita
+NewAppointmentDesc=Agendar cita en calendario
+NewPregnancy=Nuevo Embarazo
+NewPregnancyDesc=Iniciar seguimiento de embarazo
+NewExam=Nuevo Examen
+NewExamDesc=Solicitar examen de laboratorio o imagen
+
+# Citas y agenda
+NextAppointments=Próximas Citas
+Date=Fecha
+Label=Etiqueta
+ThirdParty=Tercero
+NoUpcomingAppointments=No hay citas próximas
+
+# Exámenes
+PendingExamsResults=Exámenes Pendientes de Resultado
+ExamType=Tipo de Examen
+Patient=Paciente
+NoPendingExams=No hay exámenes pendientes
+
+# Consultas
+LastConsultations=Últimas Consultas
+ConsultType=Tipo de Consulta
+Status=Estado
+NoConsultationsYet=No hay consultas registradas aún
+Show=Mostrar
+
+# Estados
+Draft=Borrador
+Validated=Validada
+Cancelled=Cancelada
+
+# Datos clínicos
+Menarquia=Menarquia
+FUM=FUM
+Gestas=Gestas
+Partos=Partos
+Cesareas=Cesáreas
+Abortos=Abortos
+GrupoSanguineo=Grupo Sanguíneo
+FactorRH=Factor RH
+
+# Embarazo
+Pregnancy=Embarazo
+PrenatalControls=Controles Prenatales
+Weeks=Semanas
+Days=Días
+
+# Varios
+Consultation=Consulta
+Exams=Exámenes
+Documents=Documentos
+Contraception=Anticoncepción
+Surgeries=Cirugías
+Reports=Reportes
+Setup=Configuración
+DictionarySetup=Diccionarios
