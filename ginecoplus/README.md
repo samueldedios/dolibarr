@@ -25,7 +25,7 @@ GinecoPlus is a specialized module for Dolibarr designed to provide gynecology m
 
 ## Author
 
-Samuel de Dios
+SDC
 
 ## License
 
