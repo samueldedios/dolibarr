@@ -1,0 +1,27 @@
+# Copyright (C) 2024 Samuel de Dios
+# 
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+
+# Module label
+ModuleGinecoPlusName=GinecoPlus
+ModuleGinecoPlusDesc=Módulo Ginecología Plus para Dolibarr
+
+# Admin pages
+ginecoplus_setup=Configuración del Módulo GinecoPlus
+ginecoplus_description=Este módulo proporciona características de gestión de ginecología
+
+# Common
+List=Listado
+New=Nuevo
+Edit=Editar
+Delete=Eliminar
+Save=Guardar
+Cancel=Cancelar
+
+# Messages
+GinecoPlusCreated=Registro de GinecoPlus creado exitosamente
+GinecoPlusUpdated=Registro de GinecoPlus actualizado exitosamente
+GinecoPlusDeleted=Registro de GinecoPlus eliminado exitosamente
